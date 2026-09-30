@@ -1,0 +1,151 @@
+2026-09-30T09:20:03.489784 step=1 peak_alloc_GiB=6.49
+2026-09-30T09:20:11.402373 step=2 peak_alloc_GiB=6.51
+2026-09-30T09:20:18.880642 step=3 peak_alloc_GiB=6.51
+2026-09-30T09:20:26.992499 step=4 peak_alloc_GiB=6.51
+2026-09-30T09:20:35.268990 step=5 peak_alloc_GiB=6.51
+2026-09-30T09:20:35.274871 LOG {'loss': 0.6922, 'grad_norm': 6.655380725860596, 'learning_rate': 4.8400000000000004e-05, 'rewards/chosen': 0.0005418205400928855, 'rewards/rejected': -0.001446189940907061, 'rewards/accuracies': 0.44999998807907104, 'rewards/margins': 0.0019880104809999466, 'logps/chosen': -351.1075134277344, 'logps/rejected': -364.8891296386719, 'logits/chosen': 0.5460246205329895, 'logits/rejected': 0.5277183055877686, 'epoch': 0.04}
+2026-09-30T09:20:41.978876 step=6 peak_alloc_GiB=6.51
+2026-09-30T09:20:49.973047 step=7 peak_alloc_GiB=6.51
+2026-09-30T09:20:58.479408 step=8 peak_alloc_GiB=6.51
+2026-09-30T09:21:07.282279 step=9 peak_alloc_GiB=6.51
+2026-09-30T09:21:15.382288 step=10 peak_alloc_GiB=6.51
+2026-09-30T09:21:15.383248 LOG {'loss': 0.6821, 'grad_norm': 6.562624931335449, 'learning_rate': 4.64e-05, 'rewards/chosen': -0.002874774858355522, 'rewards/rejected': -0.02533039078116417, 'rewards/accuracies': 0.8500000238418579, 'rewards/margins': 0.022455615922808647, 'logps/chosen': -228.4169464111328, 'logps/rejected': -327.396728515625, 'logits/chosen': 0.3871641755104065, 'logits/rejected': 0.546991229057312, 'epoch': 0.08}
+2026-09-30T09:21:23.973290 step=11 peak_alloc_GiB=6.51
+2026-09-30T09:21:31.831856 step=12 peak_alloc_GiB=6.51
+2026-09-30T09:21:40.437765 step=13 peak_alloc_GiB=6.51
+2026-09-30T09:21:49.234326 step=14 peak_alloc_GiB=6.51
+2026-09-30T09:21:57.928398 step=15 peak_alloc_GiB=6.51
+2026-09-30T09:21:57.929382 LOG {'loss': 0.6541, 'grad_norm': 6.9095001220703125, 'learning_rate': 4.44e-05, 'rewards/chosen': -0.024725085124373436, 'rewards/rejected': -0.10528278350830078, 'rewards/accuracies': 0.8999999761581421, 'rewards/margins': 0.08055770397186279, 'logps/chosen': -191.87237548828125, 'logps/rejected': -376.65716552734375, 'logits/chosen': 0.3730664849281311, 'logits/rejected': 0.5789205431938171, 'epoch': 0.12}
+2026-09-30T09:22:07.043499 step=16 peak_alloc_GiB=6.51
+2026-09-30T09:22:16.178265 step=17 peak_alloc_GiB=6.51
+2026-09-30T09:22:25.567815 step=18 peak_alloc_GiB=6.51
+2026-09-30T09:22:35.031666 step=19 peak_alloc_GiB=6.51
+2026-09-30T09:22:43.205355 step=20 peak_alloc_GiB=6.51
+2026-09-30T09:22:43.206278 LOG {'loss': 0.6479, 'grad_norm': 7.428275108337402, 'learning_rate': 4.24e-05, 'rewards/chosen': -0.0961509495973587, 'rewards/rejected': -0.1919407695531845, 'rewards/accuracies': 0.75, 'rewards/margins': 0.09578981250524521, 'logps/chosen': -298.077880859375, 'logps/rejected': -383.0824279785156, 'logits/chosen': 0.5433661937713623, 'logits/rejected': 0.6072324514389038, 'epoch': 0.16}
+2026-09-30T09:22:51.483117 step=21 peak_alloc_GiB=6.51
+2026-09-30T09:23:00.445972 step=22 peak_alloc_GiB=6.51
+2026-09-30T09:23:09.147597 step=23 peak_alloc_GiB=6.51
+2026-09-30T09:23:17.595599 step=24 peak_alloc_GiB=6.51
+2026-09-30T09:23:26.302339 step=25 peak_alloc_GiB=6.51
+2026-09-30T09:23:26.303187 LOG {'loss': 0.6143, 'grad_norm': 8.302343368530273, 'learning_rate': 4.0400000000000006e-05, 'rewards/chosen': -0.07350511848926544, 'rewards/rejected': -0.24263349175453186, 'rewards/accuracies': 0.8500000238418579, 'rewards/margins': 0.16912837326526642, 'logps/chosen': -202.88563537597656, 'logps/rejected': -350.5741882324219, 'logits/chosen': 0.19931156933307648, 'logits/rejected': 0.46119290590286255, 'epoch': 0.2}
+2026-09-30T09:23:35.629666 step=26 peak_alloc_GiB=6.51
+2026-09-30T09:23:44.423835 step=27 peak_alloc_GiB=6.51
+2026-09-30T09:23:54.076055 step=28 peak_alloc_GiB=6.51
+2026-09-30T09:24:02.770696 step=29 peak_alloc_GiB=6.51
+2026-09-30T09:24:12.054443 step=30 peak_alloc_GiB=6.51
+2026-09-30T09:24:12.055394 LOG {'loss': 0.6043, 'grad_norm': 7.886728763580322, 'learning_rate': 3.8400000000000005e-05, 'rewards/chosen': -0.1584329903125763, 'rewards/rejected': -0.3521236479282379, 'rewards/accuracies': 0.8999999761581421, 'rewards/margins': 0.19369064271450043, 'logps/chosen': -273.03863525390625, 'logps/rejected': -354.10528564453125, 'logits/chosen': 0.4438112676143646, 'logits/rejected': 0.45952144265174866, 'epoch': 0.24}
+2026-09-30T09:24:20.844162 step=31 peak_alloc_GiB=6.51
+2026-09-30T09:24:29.907163 step=32 peak_alloc_GiB=6.51
+2026-09-30T09:24:38.929538 step=33 peak_alloc_GiB=6.51
+2026-09-30T09:24:47.756440 step=34 peak_alloc_GiB=6.51
+2026-09-30T09:24:57.165856 step=35 peak_alloc_GiB=6.51
+2026-09-30T09:24:57.166872 LOG {'loss': 0.5081, 'grad_norm': 8.335156440734863, 'learning_rate': 3.6400000000000004e-05, 'rewards/chosen': -0.16158898174762726, 'rewards/rejected': -0.6079024076461792, 'rewards/accuracies': 0.949999988079071, 'rewards/margins': 0.4463135302066803, 'logps/chosen': -212.1103973388672, 'logps/rejected': -377.09149169921875, 'logits/chosen': 0.4280783236026764, 'logits/rejected': 0.4918402135372162, 'epoch': 0.28}
+2026-09-30T09:25:06.398413 step=36 peak_alloc_GiB=6.51
+2026-09-30T09:25:15.154817 step=37 peak_alloc_GiB=6.51
+2026-09-30T09:25:24.595592 step=38 peak_alloc_GiB=6.51
+2026-09-30T09:25:33.436042 step=39 peak_alloc_GiB=6.51
+2026-09-30T09:25:42.088113 step=40 peak_alloc_GiB=6.51
+2026-09-30T09:25:42.089204 LOG {'loss': 0.487, 'grad_norm': 4.802518367767334, 'learning_rate': 3.4399999999999996e-05, 'rewards/chosen': -0.2906014323234558, 'rewards/rejected': -0.8172450065612793, 'rewards/accuracies': 0.8500000238418579, 'rewards/margins': 0.5266436338424683, 'logps/chosen': -232.05050659179688, 'logps/rejected': -357.16680908203125, 'logits/chosen': 0.2844761908054352, 'logits/rejected': 0.47806796431541443, 'epoch': 0.32}
+2026-09-30T09:25:50.968349 step=41 peak_alloc_GiB=6.51
+2026-09-30T09:25:59.201777 step=42 peak_alloc_GiB=6.51
+2026-09-30T09:26:08.648876 step=43 peak_alloc_GiB=6.51
+2026-09-30T09:26:16.841441 step=44 peak_alloc_GiB=6.51
+2026-09-30T09:26:25.989792 step=45 peak_alloc_GiB=6.51
+2026-09-30T09:26:25.990454 LOG {'loss': 0.4173, 'grad_norm': 7.430077075958252, 'learning_rate': 3.24e-05, 'rewards/chosen': -0.4055052399635315, 'rewards/rejected': -1.1294928789138794, 'rewards/accuracies': 0.8999999761581421, 'rewards/margins': 0.7239876985549927, 'logps/chosen': -196.61029052734375, 'logps/rejected': -330.18109130859375, 'logits/chosen': 0.3871007561683655, 'logits/rejected': 0.4025236666202545, 'epoch': 0.36}
+2026-09-30T09:26:34.722390 step=46 peak_alloc_GiB=6.51
+2026-09-30T09:26:44.036271 step=47 peak_alloc_GiB=6.51
+2026-09-30T09:26:52.092657 step=48 peak_alloc_GiB=6.51
+2026-09-30T09:27:01.379966 step=49 peak_alloc_GiB=6.51
+2026-09-30T09:27:09.671064 step=50 peak_alloc_GiB=6.51
+2026-09-30T09:27:09.672066 LOG {'loss': 0.4086, 'grad_norm': 4.813427448272705, 'learning_rate': 3.04e-05, 'rewards/chosen': -0.6184974908828735, 'rewards/rejected': -1.4976140260696411, 'rewards/accuracies': 0.8500000238418579, 'rewards/margins': 0.8791166543960571, 'logps/chosen': -246.1017303466797, 'logps/rejected': -316.10125732421875, 'logits/chosen': 0.44883546233177185, 'logits/rejected': 0.46420520544052124, 'epoch': 0.4}
+2026-09-30T09:27:18.919709 step=51 peak_alloc_GiB=6.51
+2026-09-30T09:27:27.648713 step=52 peak_alloc_GiB=6.51
+2026-09-30T09:27:36.457265 step=53 peak_alloc_GiB=6.51
+2026-09-30T09:27:44.689145 step=54 peak_alloc_GiB=6.51
+2026-09-30T09:27:53.315260 step=55 peak_alloc_GiB=6.51
+2026-09-30T09:27:53.316193 LOG {'loss': 0.3798, 'grad_norm': 5.176544666290283, 'learning_rate': 2.84e-05, 'rewards/chosen': -0.8483603596687317, 'rewards/rejected': -1.9287742376327515, 'rewards/accuracies': 0.8500000238418579, 'rewards/margins': 1.080414056777954, 'logps/chosen': -242.5009765625, 'logps/rejected': -358.5796813964844, 'logits/chosen': 0.38239938020706177, 'logits/rejected': 0.49075764417648315, 'epoch': 0.44}
+2026-09-30T09:28:02.355067 step=56 peak_alloc_GiB=6.51
+2026-09-30T09:28:11.652450 step=57 peak_alloc_GiB=6.51
+2026-09-30T09:28:20.861535 step=58 peak_alloc_GiB=6.51
+2026-09-30T09:28:29.447460 step=59 peak_alloc_GiB=6.51
+2026-09-30T09:28:37.688878 step=60 peak_alloc_GiB=6.51
+2026-09-30T09:28:37.689871 LOG {'loss': 0.2684, 'grad_norm': 2.8267056941986084, 'learning_rate': 2.64e-05, 'rewards/chosen': -0.7809149026870728, 'rewards/rejected': -2.4041333198547363, 'rewards/accuracies': 0.949999988079071, 'rewards/margins': 1.6232185363769531, 'logps/chosen': -260.72418212890625, 'logps/rejected': -363.36065673828125, 'logits/chosen': 0.256394624710083, 'logits/rejected': 0.48379674553871155, 'epoch': 0.48}
+2026-09-30T09:28:46.979241 step=61 peak_alloc_GiB=6.51
+2026-09-30T09:28:55.829590 step=62 peak_alloc_GiB=6.51
+2026-09-30T09:29:04.667895 step=63 peak_alloc_GiB=6.51
+2026-09-30T09:29:13.594598 step=64 peak_alloc_GiB=6.51
+2026-09-30T09:29:22.276632 step=65 peak_alloc_GiB=6.51
+2026-09-30T09:29:22.277623 LOG {'loss': 0.2453, 'grad_norm': 6.359668254852295, 'learning_rate': 2.44e-05, 'rewards/chosen': -0.8715966939926147, 'rewards/rejected': -2.7528834342956543, 'rewards/accuracies': 0.8999999761581421, 'rewards/margins': 1.881286382675171, 'logps/chosen': -205.388916015625, 'logps/rejected': -354.8539123535156, 'logits/chosen': 0.48474207520484924, 'logits/rejected': 0.5502982139587402, 'epoch': 0.52}
+2026-09-30T09:29:31.160746 step=66 peak_alloc_GiB=6.51
+2026-09-30T09:29:40.368305 step=67 peak_alloc_GiB=6.51
+2026-09-30T09:29:49.147440 step=68 peak_alloc_GiB=6.51
+2026-09-30T09:29:58.798632 step=69 peak_alloc_GiB=6.51
+2026-09-30T09:30:08.247754 step=70 peak_alloc_GiB=6.51
+2026-09-30T09:30:08.248637 LOG {'loss': 0.2085, 'grad_norm': 3.956502676010132, 'learning_rate': 2.2400000000000002e-05, 'rewards/chosen': -1.8058332204818726, 'rewards/rejected': -3.8570244312286377, 'rewards/accuracies': 0.949999988079071, 'rewards/margins': 2.051191806793213, 'logps/chosen': -289.08203125, 'logps/rejected': -395.6057434082031, 'logits/chosen': 0.44492825865745544, 'logits/rejected': 0.5077378153800964, 'epoch': 0.56}
+2026-09-30T09:30:17.449287 step=71 peak_alloc_GiB=6.51
+2026-09-30T09:30:25.796377 step=72 peak_alloc_GiB=6.51
+2026-09-30T09:30:34.778819 step=73 peak_alloc_GiB=6.51
+2026-09-30T09:30:44.018095 step=74 peak_alloc_GiB=6.51
+2026-09-30T09:30:52.934562 step=75 peak_alloc_GiB=6.51
+2026-09-30T09:30:52.935428 LOG {'loss': 0.1693, 'grad_norm': 4.696838855743408, 'learning_rate': 2.04e-05, 'rewards/chosen': -1.8800041675567627, 'rewards/rejected': -4.040321350097656, 'rewards/accuracies': 1.0, 'rewards/margins': 2.1603169441223145, 'logps/chosen': -270.19708251953125, 'logps/rejected': -394.889892578125, 'logits/chosen': 0.47862038016319275, 'logits/rejected': 0.49874910712242126, 'epoch': 0.6}
+2026-09-30T09:31:01.985044 step=76 peak_alloc_GiB=6.51
+2026-09-30T09:31:11.652939 step=77 peak_alloc_GiB=6.51
+2026-09-30T09:31:20.108585 step=78 peak_alloc_GiB=6.51
+2026-09-30T09:31:27.866696 step=79 peak_alloc_GiB=6.51
+2026-09-30T09:31:36.746910 step=80 peak_alloc_GiB=6.51
+2026-09-30T09:31:36.747776 LOG {'loss': 0.2469, 'grad_norm': 1.1624966859817505, 'learning_rate': 1.84e-05, 'rewards/chosen': -2.017082691192627, 'rewards/rejected': -4.332113742828369, 'rewards/accuracies': 0.8999999761581421, 'rewards/margins': 2.315030813217163, 'logps/chosen': -270.9259338378906, 'logps/rejected': -364.66497802734375, 'logits/chosen': 0.31839704513549805, 'logits/rejected': 0.44803136587142944, 'epoch': 0.64}
+2026-09-30T09:31:44.667629 step=81 peak_alloc_GiB=6.51
+2026-09-30T09:31:53.470604 step=82 peak_alloc_GiB=6.51
+2026-09-30T09:32:00.898226 step=83 peak_alloc_GiB=6.51
+2026-09-30T09:32:09.656981 step=84 peak_alloc_GiB=6.51
+2026-09-30T09:32:18.743782 step=85 peak_alloc_GiB=6.51
+2026-09-30T09:32:18.744579 LOG {'loss': 0.1583, 'grad_norm': 1.3718900680541992, 'learning_rate': 1.6400000000000002e-05, 'rewards/chosen': -2.337728977203369, 'rewards/rejected': -5.5040082931518555, 'rewards/accuracies': 0.949999988079071, 'rewards/margins': 3.1662793159484863, 'logps/chosen': -217.82260131835938, 'logps/rejected': -330.4197998046875, 'logits/chosen': 0.4347996115684509, 'logits/rejected': 0.3924012780189514, 'epoch': 0.68}
+2026-09-30T09:32:28.219316 step=86 peak_alloc_GiB=6.51
+2026-09-30T09:32:37.447341 step=87 peak_alloc_GiB=6.51
+2026-09-30T09:32:46.910341 step=88 peak_alloc_GiB=6.51
+2026-09-30T09:32:55.314895 step=89 peak_alloc_GiB=6.51
+2026-09-30T09:33:04.470085 step=90 peak_alloc_GiB=6.51
+2026-09-30T09:33:04.471333 LOG {'loss': 0.24, 'grad_norm': 3.003553628921509, 'learning_rate': 1.44e-05, 'rewards/chosen': -3.7075164318084717, 'rewards/rejected': -6.924130916595459, 'rewards/accuracies': 0.8500000238418579, 'rewards/margins': 3.2166144847869873, 'logps/chosen': -370.5291748046875, 'logps/rejected': -431.1656799316406, 'logits/chosen': 0.39276623725891113, 'logits/rejected': 0.393677294254303, 'epoch': 0.72}
+2026-09-30T09:33:13.331262 step=91 peak_alloc_GiB=6.51
+2026-09-30T09:33:22.460340 step=92 peak_alloc_GiB=6.51
+2026-09-30T09:33:31.496046 step=93 peak_alloc_GiB=6.51
+2026-09-30T09:33:40.507263 step=94 peak_alloc_GiB=6.51
+2026-09-30T09:33:49.648667 step=95 peak_alloc_GiB=6.51
+2026-09-30T09:33:49.649603 LOG {'loss': 0.1449, 'grad_norm': 0.6653667688369751, 'learning_rate': 1.24e-05, 'rewards/chosen': -3.5377438068389893, 'rewards/rejected': -8.129433631896973, 'rewards/accuracies': 0.8999999761581421, 'rewards/margins': 4.5916900634765625, 'logps/chosen': -289.1640625, 'logps/rejected': -452.00213623046875, 'logits/chosen': 0.5463410019874573, 'logits/rejected': 0.5335516333580017, 'epoch': 0.76}
+2026-09-30T09:33:58.277146 step=96 peak_alloc_GiB=6.51
+2026-09-30T09:34:07.306977 step=97 peak_alloc_GiB=6.51
+2026-09-30T09:34:15.181704 step=98 peak_alloc_GiB=6.51
+2026-09-30T09:34:22.684373 step=99 peak_alloc_GiB=6.51
+2026-09-30T09:34:31.573503 step=100 peak_alloc_GiB=6.51
+2026-09-30T09:34:31.574480 LOG {'loss': 0.089, 'grad_norm': 3.186375617980957, 'learning_rate': 1.04e-05, 'rewards/chosen': -2.998887538909912, 'rewards/rejected': -7.419600009918213, 'rewards/accuracies': 1.0, 'rewards/margins': 4.420713424682617, 'logps/chosen': -200.6299285888672, 'logps/rejected': -372.9856872558594, 'logits/chosen': 0.23128660023212433, 'logits/rejected': 0.41084161400794983, 'epoch': 0.8}
+2026-09-30T09:34:41.045174 step=101 peak_alloc_GiB=6.51
+2026-09-30T09:34:50.060772 step=102 peak_alloc_GiB=6.51
+2026-09-30T09:34:58.727644 step=103 peak_alloc_GiB=6.51
+2026-09-30T09:35:08.199291 step=104 peak_alloc_GiB=6.51
+2026-09-30T09:35:16.336598 step=105 peak_alloc_GiB=6.51
+2026-09-30T09:35:16.337659 LOG {'loss': 0.0913, 'grad_norm': 1.6036843061447144, 'learning_rate': 8.400000000000001e-06, 'rewards/chosen': -3.53092885017395, 'rewards/rejected': -8.438287734985352, 'rewards/accuracies': 1.0, 'rewards/margins': 4.907357692718506, 'logps/chosen': -233.0831298828125, 'logps/rejected': -478.22845458984375, 'logits/chosen': 0.399364709854126, 'logits/rejected': 0.4577412009239197, 'epoch': 0.84}
+2026-09-30T09:35:25.173935 step=106 peak_alloc_GiB=6.51
+2026-09-30T09:35:33.782522 step=107 peak_alloc_GiB=6.51
+2026-09-30T09:35:42.825075 step=108 peak_alloc_GiB=6.51
+2026-09-30T09:35:52.263541 step=109 peak_alloc_GiB=6.51
+2026-09-30T09:36:01.685606 step=110 peak_alloc_GiB=6.51
+2026-09-30T09:36:01.686558 LOG {'loss': 0.2167, 'grad_norm': 21.61860466003418, 'learning_rate': 6.4000000000000006e-06, 'rewards/chosen': -4.980231761932373, 'rewards/rejected': -9.081838607788086, 'rewards/accuracies': 0.949999988079071, 'rewards/margins': 4.101607322692871, 'logps/chosen': -296.2922058105469, 'logps/rejected': -435.6463317871094, 'logits/chosen': 0.3438040614128113, 'logits/rejected': 0.3737843632698059, 'epoch': 0.88}
+2026-09-30T09:36:10.095758 step=111 peak_alloc_GiB=6.51
+2026-09-30T09:36:19.493423 step=112 peak_alloc_GiB=6.51
+2026-09-30T09:36:28.928684 step=113 peak_alloc_GiB=6.51
+2026-09-30T09:36:37.630348 step=114 peak_alloc_GiB=6.51
+2026-09-30T09:36:45.881708 step=115 peak_alloc_GiB=6.51
+2026-09-30T09:36:45.882453 LOG {'loss': 0.5798, 'grad_norm': 1.520188808441162, 'learning_rate': 4.4e-06, 'rewards/chosen': -4.982992649078369, 'rewards/rejected': -7.485079288482666, 'rewards/accuracies': 0.8999999761581421, 'rewards/margins': 2.5020861625671387, 'logps/chosen': -319.2604675292969, 'logps/rejected': -356.6714782714844, 'logits/chosen': 0.39053839445114136, 'logits/rejected': 0.4442440867424011, 'epoch': 0.92}
+2026-09-30T09:36:54.914955 step=116 peak_alloc_GiB=6.51
+2026-09-30T09:37:03.767383 step=117 peak_alloc_GiB=6.51
+2026-09-30T09:37:12.343341 step=118 peak_alloc_GiB=6.51
+2026-09-30T09:37:21.764802 step=119 peak_alloc_GiB=6.51
+2026-09-30T09:37:31.206481 step=120 peak_alloc_GiB=6.51
+2026-09-30T09:37:31.207657 LOG {'loss': 0.1837, 'grad_norm': 14.033231735229492, 'learning_rate': 2.4000000000000003e-06, 'rewards/chosen': -5.3963942527771, 'rewards/rejected': -10.513265609741211, 'rewards/accuracies': 0.8999999761581421, 'rewards/margins': 5.116872310638428, 'logps/chosen': -311.3497314453125, 'logps/rejected': -462.5087890625, 'logits/chosen': 0.4915340840816498, 'logits/rejected': 0.4781913161277771, 'epoch': 0.96}
+2026-09-30T09:37:39.230538 step=121 peak_alloc_GiB=6.51
+2026-09-30T09:37:48.160792 step=122 peak_alloc_GiB=6.51
+2026-09-30T09:37:56.802586 step=123 peak_alloc_GiB=6.51
+2026-09-30T09:38:05.916523 step=124 peak_alloc_GiB=6.51
+2026-09-30T09:38:15.414840 step=125 peak_alloc_GiB=6.51
+2026-09-30T09:38:15.416414 LOG {'loss': 0.307, 'grad_norm': 9.517430305480957, 'learning_rate': 4.0000000000000003e-07, 'rewards/chosen': -4.839820861816406, 'rewards/rejected': -9.246871948242188, 'rewards/accuracies': 0.8500000238418579, 'rewards/margins': 4.407051086425781, 'logps/chosen': -282.4659729003906, 'logps/rejected': -429.23785400390625, 'logits/chosen': 0.5180841088294983, 'logits/rejected': 0.5320027470588684, 'epoch': 1.0}
+2026-09-30T09:38:15.416921 LOG {'train_runtime': 1101.7027, 'train_samples_per_second': 0.454, 'train_steps_per_second': 0.113, 'total_flos': 0.0, 'train_loss': 0.369797256231308, 'epoch': 1.0}
